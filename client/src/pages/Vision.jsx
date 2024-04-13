@@ -1,8 +1,8 @@
 import React from 'react'
 
-function Vission() {
+function Vision() {
   return (
-    <div>Vission</div>
+    <div>Vision</div>
   )
 }
 

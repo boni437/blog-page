@@ -11,7 +11,6 @@ const navigation = [
   { name: 'About Us', href: 'https://www.hawisoftware.com/contact/' },
   { name: 'News', href: "posts" },
 ]
-
  function Header() {
   const [mobileMode, setMobileMode] = useState(false)
 

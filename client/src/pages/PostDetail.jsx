@@ -3,7 +3,7 @@
 function PostDetail() {
   return (
     
-      <div>PostDetail</div>
+      <div>PostDetail </div>
   )
 }
 

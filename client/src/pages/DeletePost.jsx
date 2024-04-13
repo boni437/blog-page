@@ -2,7 +2,7 @@ import React from 'react'
 
 function DeletePost() {
   return (
-    <div>DeletePost</div>
+    <div>DeletePost </div>
   )
 }
 

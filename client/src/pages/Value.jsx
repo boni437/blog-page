@@ -2,7 +2,7 @@ import React from 'react'
 
 function Value() {
   return (
-    <div>Value</div>
+    <div>Value </div>
   )
 }
 

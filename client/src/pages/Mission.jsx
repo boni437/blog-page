@@ -2,7 +2,7 @@ import React from 'react'
 
 function Mission() {
   return (
-    <div>Mission</div>
+    <div>Mission </div>
   )
 }
 
