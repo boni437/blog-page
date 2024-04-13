@@ -1,0 +1,10 @@
+.env
+node_modules
+Home.jsx
+RecentPost.jsx
+
+.components
+.pages
+.redux
+main1.jsx
+
